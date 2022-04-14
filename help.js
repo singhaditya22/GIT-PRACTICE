@@ -2,7 +2,7 @@ import React from 'react'
 
 const help = () => {
   return (
-    <div>wohoooo</div>
+    <div>wohadsadsadoooo</div>
   )
 }
 
